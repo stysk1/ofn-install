@@ -2,15 +2,15 @@
 
 # See https://github.com/openfoodfoundation/ofn-install/wiki/Setup for more info
 checkout_zone:
-country_code:
-currency:
+country_code: US
+currency: USD
 locale: en
 available_locales: en,es
 language:
 language_packages:
   - language-pack-en-base
 l10n_repo: https://github.com/openfoodfoundation/l10n_au.git
-timezone:
+timezone: UTC -05:00
 
 
 # Used for the LetsEncrypt email setting

@@ -19,6 +19,7 @@ users_sysadmin:
   - enricostn
   - dani
   - ravi
+  - stysk1
 
 # Disabled for now
 s3_backups_bucket: none

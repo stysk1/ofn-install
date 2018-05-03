@@ -1,0 +1,8 @@
+---
+
+domain: http://csc415-server23.hpc.tcnj.edu:3000
+rails_env: production
+
+admin_email: kstys97@gmail.com
+
+mail_domain: gmail.com
